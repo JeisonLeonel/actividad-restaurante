@@ -27,7 +27,7 @@ body {
 .grid-card {
     width: 300px ;
     height: 400px;
-    margin-left: 10px;
+    margin-left: 20px;
     text-align: center;
     font-family: var(--font);
     letter-spacing: -2px;
